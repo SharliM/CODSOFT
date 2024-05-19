@@ -30,7 +30,9 @@ This project aims to predict survival on the Titanic using machine learning tech
 - Visualizations including bar plots and pie charts are provided to illustrate the distribution of predicted survivors by gender.
 
 ## Authors
-SHARLIM
+ Authors
+- [SHARLI](https://github.com/SharliM)
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
